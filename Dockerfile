@@ -16,6 +16,10 @@ COPY --chown=node:node . /home/node/app/
 FROM base as development
 WORKDIR /home/node/app
 # Install (not ci) with dependencies, and for Linux vs. Linux Musl (which we use for -alpine)
+RUN npm config set timeout 120000
+
+RUN npm install -g npm@10.2.5
+
 RUN npm install
 # Switch to the node user vs. root
 USER node
