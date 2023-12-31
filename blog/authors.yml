@@ -1,17 +1,17 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+dongjae:
+  name: DongJae Oh
+  title: Back End Engineer
+  url: https://github.com/donggni0712
+  image_url: https://github.com/donggni0712.png
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
+chanju:
+  name: ChanJu Lee
+  title: Back End Engineer
+  url: https://github.com/jalju0804
+  image_url: https://github.com/jalju0804.png
+
+minseok:
+  name: MinSeok Choi
+  title: Back End Engineer @ kakao
   url: https://github.com/yangshun
   image_url: https://github.com/yangshun.png
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
